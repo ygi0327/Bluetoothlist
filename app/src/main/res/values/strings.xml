@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bluetooth list</string>
+    <string name="send">장치 검색</string>
+    <string name="basename">이름 없음</string>
+</resources>
